@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Scott",
+    "age": 5,
+    "address": {
+        "street": "Jermaine Shoals",
+        "city": "Lake Bobby",
+        "state": "Alaska",
+        "zip": "96689"
+    },
+    "contact": {
+        "phone": "708-876-6880x975",
+        "servicePhone": "800936379"
+    },
+    "birthday": "2020-12-02",
+    "ip": "194.86.224.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Determine certainly school first pattern. Number pattern debate first sit.\nUs radio lead book shoulder.",
+        "bio": "Risk hour big pick capital. Interest write family deep agree suffer still blue.\nCollection service shoulder common much wind media. Late PM late have political. Point better movie not."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
