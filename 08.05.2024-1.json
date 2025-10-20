@@ -1,0 +1,25 @@
+{
+    "name": "James Martinez",
+    "age": 103,
+    "address": {
+        "street": "Perry Roads",
+        "city": "Millerchester",
+        "state": "Tennessee",
+        "zip": "96283"
+    },
+    "contact": {
+        "phone": "236-947-7145x457",
+        "servicePhone": "800881356"
+    },
+    "birthday": "1922-03-02",
+    "ip": "99.170.10.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Brother fight radio. Upon cost drop. Ago with idea goal bring front Mr draw.\nImprove any down current ability prevent. High defense assume claim us mouth color.",
+        "bio": "Stage wait everybody worry act system. Democratic tonight career choice himself hit art. Morning action that half later."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
