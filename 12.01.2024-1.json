@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Rich",
+    "age": 42,
+    "address": {
+        "street": "Daisy Road",
+        "city": "Port Jason",
+        "state": "Idaho",
+        "zip": "27780"
+    },
+    "contact": {
+        "phone": "(549)635-6609x0937",
+        "servicePhone": "800217533"
+    },
+    "birthday": "1983-21-06",
+    "ip": "63.218.92.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Win party prepare throughout. Every effort visit large operation again. Mr road maybe artist.",
+        "bio": "Well oil pass. Behavior red board animal quite write.\nFight their hit really. Address to hold those area."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
