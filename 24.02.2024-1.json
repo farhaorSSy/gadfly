@@ -1,0 +1,25 @@
+{
+    "name": "Peter Lloyd",
+    "age": 99,
+    "address": {
+        "street": "Snow Vista",
+        "city": "Port Manuelton",
+        "state": "Alaska",
+        "zip": "92374"
+    },
+    "contact": {
+        "phone": "882.478.8586",
+        "servicePhone": "800586329"
+    },
+    "birthday": "1926-03-04",
+    "ip": "56.132.81.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Site they begin money fire prove under wish. Assume responsibility many raise hope blood. Half bring toward civil.",
+        "bio": "How truth walk turn miss series. Left well by way author back.\nConference responsibility wrong under phone product hear. Matter discuss part happen nature ground hot effect."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
