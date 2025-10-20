@@ -1,0 +1,25 @@
+{
+    "name": "Tara Miles MD",
+    "age": 91,
+    "address": {
+        "street": "Smith Way",
+        "city": "Eddiebury",
+        "state": "Massachusetts",
+        "zip": "30534"
+    },
+    "contact": {
+        "phone": "931.460.5063x29811",
+        "servicePhone": "800397899"
+    },
+    "birthday": "1934-29-09",
+    "ip": "145.242.30.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh after Mrs describe test. Candidate structure cell foot alone.\nThrow between thousand election. Their ready necessary entire reach we night first. Indicate show free.",
+        "bio": "Spring into skin beat nearly. Compare organization join. Pretty any account about."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
