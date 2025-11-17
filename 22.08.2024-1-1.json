@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Holloway MD",
+    "age": 84,
+    "address": {
+        "street": "Castillo Cliffs",
+        "city": "North Michael",
+        "state": "Minnesota",
+        "zip": "46244"
+    },
+    "contact": {
+        "phone": "524.220.8967x767",
+        "servicePhone": "800455328"
+    },
+    "birthday": "1941-04-03",
+    "ip": "47.112.71.122",
+    "foo": "bar",
+    "profile": {
+        "about": "According have agreement fish these short. Production shoulder question push bag dinner.",
+        "bio": "Collection color father suddenly reveal. Room third possible hard actually member."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

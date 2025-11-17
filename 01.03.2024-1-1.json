@@ -1,0 +1,25 @@
+{
+    "name": "Evelyn Hopkins",
+    "age": 79,
+    "address": {
+        "street": "Johnson Vista",
+        "city": "South Joshua",
+        "state": "Florida",
+        "zip": "77963"
+    },
+    "contact": {
+        "phone": "969-232-7990",
+        "servicePhone": "800813610"
+    },
+    "birthday": "1946-12-05",
+    "ip": "82.45.55.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Continue threat edge imagine argue along strategy. Similar unit even the so real table.\nImage agent activity another. Available official apply yourself man beyond reduce nice.",
+        "bio": "Animal paper establish head public. Worry matter campaign run food task threat collection.\nDespite foot quite financial future wait one someone. Firm very join traditional one fight."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
